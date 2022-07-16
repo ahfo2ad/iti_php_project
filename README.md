@@ -7,7 +7,7 @@ ITI mansura PHP project
 <br>
 2- run : composer dump-autoload
 <br>
-3- create DB by opening : {APP_URL}/createTables.php
+3- create DB by opening : http://localhost/{APP_PATH}/createTables.php
 
 <br>
 admin account
